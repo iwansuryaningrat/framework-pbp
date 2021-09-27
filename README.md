@@ -31,11 +31,11 @@ Folder Structure:
 
 ## Authors
 
-- [Khoeru Roziqin](https://github.com/roziqinkhoeru)
-- [Iwan Suryaningrat](https://github.com/iwansuryaningrat)
-- [Rafli Ferdian Ramadhan](https://github.com/)
 - [Dico Aji Prasetyo](https://github.com/)
+- [Iwan Suryaningrat](https://github.com/iwansuryaningrat)
+- [Khoeru Roziqin](https://github.com/roziqinkhoeru)
 - [Musa Alfian Maulana](https://github.com/)
+- [Rafli Ferdian Ramadhan](https://github.com/)
 
 ## Feedback
 
